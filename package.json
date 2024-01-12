@@ -1,0 +1,15 @@
+{
+  "name": "0x74513_consensus",
+  "version": "1.0.0",
+  "description": "This repository contains my blockchain that I have personally developed. Please enjoy. If you would like to particpate in 0x74513_consensus ecosystem please feel free to run your own node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
