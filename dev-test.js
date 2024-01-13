@@ -1,6 +1,5 @@
 const Block = require("./block");
 
-const block = new Block("A", "B", "C", "D");
+const Xblock = Block.addBlock(Block.genesisBlock(), "ABCD");
 
-console.log(block.toString());
-console.log(Block.genesisBlock().toString());
+console.log(Xblock.toString());
